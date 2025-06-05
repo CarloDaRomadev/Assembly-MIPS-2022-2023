@@ -10,7 +10,7 @@
 
 ## Descrizione
 
-Questa una raccolta di esercizi e programmi scritti in linguaggio Assembly per l’architettura **MIPS32**, sviluppata come parte della preparazione all’esame di **Architettura degli Elaboratori** presso l’**Università di Roma La Sapienza**.
+Questa è una raccolta di esercizi e programmi scritti in linguaggio Assembly per l’architettura **MIPS32**, sviluppata come parte della preparazione all’esame di **Architettura degli Elaboratori** presso l’**Università di Roma La Sapienza**.
 
 Gli esercizi includono esempi pratici di:
 - Operazioni aritmetiche e logiche
