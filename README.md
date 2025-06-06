@@ -24,3 +24,5 @@ Tutti i file sono compatibili con il simulatore **MARS (MIPS Assembler and Runti
 Questo repository può essere utile sia per studenti in fase di preparazione all’esame, sia per chiunque voglia approfondire la programmazione a basso livello e comprendere meglio il funzionamento di un'architettura RISC come MIPS.
 
 🔗 **Per ulteriori esercizi e materiali:** visita la repository collaborativa [sapienzastudentsnetwork/archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223)
+
+<sub><i>last update 06/06/2025</i></sub>
